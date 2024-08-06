@@ -1,3 +1,7 @@
+```diff
+- This repo was created for a short-lived project and is not actively maintained
+```
+
 # Kids Voice
 
 Site:  [http://kidsvoice.netlify.com](http://kidsvoice.netlify.com)
